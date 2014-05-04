@@ -1,0 +1,11 @@
+{
+  "name": "weather",
+  "main": "index.html",
+  "window": {                                       /* APP的窗口属性 */
+                                  /* APP图标（windows下，状态栏上可见） */
+        "toolbar": false,                              /* 是否显示工具栏 */
+        "width": 200,                                 /* 窗口初始化大小 */
+        "height": 60,
+        "frame": true                                 /* 是否显示外窗体，如最大化、最小化、关闭按钮 */
+    }
+}

@@ -1,0 +1,12 @@
+{
+	"default":
+	{
+		"host" : "explorer.exe ::{20D04FE0-3AEA-1069-A2D8-08002B30309D}"
+	},
+
+	"option" :
+	{
+		"q" : "D:\\program files\\QQ\\QQProtect\\Bin\\QQProtect.exe",
+		"l" : "E:\\lol\\英雄联盟\\TCLS\\Client.exe"
+	}
+}
